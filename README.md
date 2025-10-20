@@ -1,6 +1,6 @@
 # 📊 StockPro — Stock Analysis & AI Assistant
 
-StockPro is a modern stock market web application that enables users to search stocks, view interactive price charts, manage watchlists, and ask AI-powered financial questions — all in one place.
+StockPro is a modern stock market web application that enables users to search stocks, view interactive price charts, manage watchlists, and ask AI-powered financial questions all in one place.
 
 🌐 **Live Demo:** https://stock-pro-bice.vercel.app
 
