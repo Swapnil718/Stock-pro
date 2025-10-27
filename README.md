@@ -39,9 +39,9 @@ Ask anything like: Ask financial questions (e.g., "Risks for Apple stock?")
 
 ---
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/20e356a1-cb93-4426-a70d-e916e002da10" />
+<img width="1502" height="813" alt="image" src="https://github.com/user-attachments/assets/abf84c80-7c33-48c7-a34f-a240ee0d154f" />
 
+<img width="1513" height="788" alt="image" src="https://github.com/user-attachments/assets/57c84540-0abc-492c-a174-d3eadf6f33d5" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ce789b76-5c12-4e3a-858d-96f76735d64c" />
 
 
